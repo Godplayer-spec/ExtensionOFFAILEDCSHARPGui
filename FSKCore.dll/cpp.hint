@@ -1,0 +1,2 @@
+#define FSKCOREDLL_API __declspec(dllexport)
+#define FSKCOREDLL_API __declspec(dllimport)
